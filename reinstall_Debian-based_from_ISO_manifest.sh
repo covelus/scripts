@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# @Breogan Costa
+# @author Breogan Costa
 #
 # Purpose: do a full reinstall of all the default packages of your distro. For example: you had removed accidentally more packages than you consider you have should.
 #
