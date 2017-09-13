@@ -3,7 +3,7 @@
 # @author Breogan Costa
 # @license: GPLv3
 #
-# Purpose: do a full reinstall of all the default packages of your distro. For example: you had removed accidentally more packages than you consider you have should.
+# Purpose: do a full reinstall of all the packages of your distro. For example: you had removed accidentally more packages than you consider you have should.
 #
 # INSTRUCTIONS:
 #  1.- update manifest_URL with your favourite Debian GNU/Linux-based Distro
